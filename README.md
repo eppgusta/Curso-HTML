@@ -1,3 +1,3 @@
 # Curso-HTML
 
-Development a web page.
+Starting to develop a web page.
